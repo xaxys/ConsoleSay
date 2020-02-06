@@ -1,0 +1,7 @@
+name: ConsoleSay
+version: 0.1.0
+main: com.github.xaxys.consolesay.Main
+author: xa
+commands:
+  c:
+    description: Only Console are allowed to use this!
